@@ -8,5 +8,5 @@ android laucnher like ios/iphone style .modify the source code off android 4.03 
 so it supports above 4.0 android os。
 including drag and drop shortcut . and fold .
 
-cantact me ：QQ 773179801
-email 773179801@qq.com
+cantact me ：QQ 773179801 
+Email 773179801@qq.com
